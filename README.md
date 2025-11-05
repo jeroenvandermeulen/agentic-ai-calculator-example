@@ -143,4 +143,3 @@ sudo pacman -S tk
 ```
 
 Note: Tkinter comes pre-installed with Python on Windows and macOS. On Linux, it typically needs to be installed separately as shown above.
-# agentic-ai-calculator-example
